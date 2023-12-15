@@ -205,4 +205,4 @@ If you would like to contribute features or fixes to this app, see the [Developm
 ---
 
 This is not an official Google project.
-This is a test.
+This is a new test.
